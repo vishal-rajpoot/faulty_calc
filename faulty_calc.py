@@ -3,7 +3,7 @@
 
 # THESE ARE THE EXCEPTIONAL CASES IN THIS FAULTY CALC 56+9 = 77 , 45*3 = 555, 56/6 = 4
  
-print("welcome to calculator: this is devloped by vishal rajput") # it is print on the screen
+print("welcome to calculator: this is devloped by vishal rajput") # it will print on the screen
 def calculator():
     operation=input("""please type the operator which you wish to complete 
 + for addition
